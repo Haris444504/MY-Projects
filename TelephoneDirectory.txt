@@ -1,0 +1,25 @@
+Name of Student: Haris
+ID: 789
+Address: haes
+Phone No: 1
+----------------------------------------
+Name of Student: 2
+ID: 2
+Address: 2
+Phone No: 2
+----------------------------------------
+Name of Student: 3
+ID: 3
+Address: 3
+Phone No: 3
+----------------------------------------
+Name of Student: 1
+ID: 1
+Address: 1
+Phone No: 1
+----------------------------------------
+Name of Student: 1
+ID: 1
+Address: 1
+Phone No: 1
+----------------------------------------
